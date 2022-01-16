@@ -1,0 +1,18 @@
+show binary db and how it sucks
+sqlite3 db .dump > dump.sql
+dbtexttool dump
+
+Modify DB
+  Add record
+  Modify record
+  delete record
+  add table
+  modify table
+  delete table
+  add column
+  modify column
+  delete column
+  make 'test' mod to data and who how it can easily be reverted.
+  
+  
+Demo binary DB with changes

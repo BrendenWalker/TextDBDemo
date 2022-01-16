@@ -1,0 +1,83 @@
+{
+    "KEYFIELDS":
+    [
+        {
+            "0":"PLAYLISTID"
+        }
+    ],
+    "PLAYLISTS":
+    [
+        {
+            "PLAYLISTID":"1",
+            "NAME":"Music"
+        },
+        {
+            "PLAYLISTID":"2",
+            "NAME":"Movies"
+        },
+        {
+            "PLAYLISTID":"3",
+            "NAME":"TV Shows"
+        },
+        {
+            "PLAYLISTID":"4",
+            "NAME":"Audiobooks"
+        },
+        {
+            "PLAYLISTID":"5",
+            "NAME":"90\u2019s Music"
+        },
+        {
+            "PLAYLISTID":"6",
+            "NAME":"Audiobooks"
+        },
+        {
+            "PLAYLISTID":"7",
+            "NAME":"Movies"
+        },
+        {
+            "PLAYLISTID":"8",
+            "NAME":"Music"
+        },
+        {
+            "PLAYLISTID":"9",
+            "NAME":"Music Videos"
+        },
+        {
+            "PLAYLISTID":"10",
+            "NAME":"TV Shows"
+        },
+        {
+            "PLAYLISTID":"11",
+            "NAME":"Brazilian Music"
+        },
+        {
+            "PLAYLISTID":"12",
+            "NAME":"Classical"
+        },
+        {
+            "PLAYLISTID":"13",
+            "NAME":"Classical 101 - Deep Cuts"
+        },
+        {
+            "PLAYLISTID":"14",
+            "NAME":"Classical 101 - Next Steps"
+        },
+        {
+            "PLAYLISTID":"15",
+            "NAME":"Classical 101 - The Basics"
+        },
+        {
+            "PLAYLISTID":"16",
+            "NAME":"Grunge"
+        },
+        {
+            "PLAYLISTID":"17",
+            "NAME":"Heavy Metal Classic"
+        },
+        {
+            "PLAYLISTID":"18",
+            "NAME":"On-The-Go 1"
+        }
+    ]
+}

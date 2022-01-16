@@ -1,0 +1,111 @@
+{
+    "KEYFIELDS":
+    [
+        {
+            "0":"GENREID"
+        }
+    ],
+    "GENRES":
+    [
+        {
+            "GENREID":"1",
+            "NAME":"Rock"
+        },
+        {
+            "GENREID":"2",
+            "NAME":"Jazz"
+        },
+        {
+            "GENREID":"3",
+            "NAME":"Metal"
+        },
+        {
+            "GENREID":"4",
+            "NAME":"Alternative & Punk"
+        },
+        {
+            "GENREID":"5",
+            "NAME":"Rock And Roll"
+        },
+        {
+            "GENREID":"6",
+            "NAME":"Blues"
+        },
+        {
+            "GENREID":"7",
+            "NAME":"Latin"
+        },
+        {
+            "GENREID":"8",
+            "NAME":"Reggae"
+        },
+        {
+            "GENREID":"9",
+            "NAME":"Pop"
+        },
+        {
+            "GENREID":"10",
+            "NAME":"Soundtrack"
+        },
+        {
+            "GENREID":"11",
+            "NAME":"Bossa Nova"
+        },
+        {
+            "GENREID":"12",
+            "NAME":"Easy Listening"
+        },
+        {
+            "GENREID":"13",
+            "NAME":"Heavy Metal"
+        },
+        {
+            "GENREID":"14",
+            "NAME":"R&B\/Soul"
+        },
+        {
+            "GENREID":"15",
+            "NAME":"Electronica\/Dance"
+        },
+        {
+            "GENREID":"16",
+            "NAME":"World"
+        },
+        {
+            "GENREID":"17",
+            "NAME":"Hip Hop\/Rap"
+        },
+        {
+            "GENREID":"18",
+            "NAME":"Science Fiction"
+        },
+        {
+            "GENREID":"19",
+            "NAME":"TV Shows"
+        },
+        {
+            "GENREID":"20",
+            "NAME":"Sci Fi & Fantasy"
+        },
+        {
+            "GENREID":"21",
+            "NAME":"Drama"
+        },
+        {
+            "GENREID":"22",
+            "NAME":"Comedy"
+        },
+        {
+            "GENREID":"23",
+            "NAME":"Alternative"
+        },
+        {
+            "GENREID":"24",
+            "NAME":"Classical"
+        },
+        {
+            "GENREID":"25",
+            "NAME":"Opera"
+        }
+    ]
+}
