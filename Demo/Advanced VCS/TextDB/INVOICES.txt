@@ -15,7 +15,7 @@
             "BILLINGPOSTALCODE":"70174",
             "BILLINGSTATE":null,
             "CUSTOMERID":"2",
-            "INVOICEDATE":"2009-01-01T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-01-01T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -26,7 +26,7 @@
             "BILLINGPOSTALCODE":"0171",
             "BILLINGSTATE":null,
             "CUSTOMERID":"4",
-            "INVOICEDATE":"2009-01-02T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-01-02T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -37,7 +37,7 @@
             "BILLINGPOSTALCODE":"1000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"8",
-            "INVOICEDATE":"2009-01-03T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-01-03T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -48,7 +48,7 @@
             "BILLINGPOSTALCODE":"T6G 2C7",
             "BILLINGSTATE":"AB",
             "CUSTOMERID":"14",
-            "INVOICEDATE":"2009-01-06T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-01-06T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -59,7 +59,7 @@
             "BILLINGPOSTALCODE":"2113",
             "BILLINGSTATE":"MA",
             "CUSTOMERID":"23",
-            "INVOICEDATE":"2009-01-11T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-01-11T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -70,7 +70,7 @@
             "BILLINGPOSTALCODE":"60316",
             "BILLINGSTATE":null,
             "CUSTOMERID":"37",
-            "INVOICEDATE":"2009-01-19T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-01-19T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -81,7 +81,7 @@
             "BILLINGPOSTALCODE":"10779",
             "BILLINGSTATE":null,
             "CUSTOMERID":"38",
-            "INVOICEDATE":"2009-02-01T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-02-01T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -92,7 +92,7 @@
             "BILLINGPOSTALCODE":"75002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"40",
-            "INVOICEDATE":"2009-02-01T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-02-01T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -103,7 +103,7 @@
             "BILLINGPOSTALCODE":"33000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"42",
-            "INVOICEDATE":"2009-02-02T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-02-02T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -114,7 +114,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":"Dublin",
             "CUSTOMERID":"46",
-            "INVOICEDATE":"2009-02-03T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-02-03T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -125,7 +125,7 @@
             "BILLINGPOSTALCODE":"N1 5LH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"52",
-            "INVOICEDATE":"2009-02-06T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-02-06T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -136,7 +136,7 @@
             "BILLINGPOSTALCODE":"70174",
             "BILLINGSTATE":null,
             "CUSTOMERID":"2",
-            "INVOICEDATE":"2009-02-11T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-02-11T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -147,7 +147,7 @@
             "BILLINGPOSTALCODE":"94043-1351",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"16",
-            "INVOICEDATE":"2009-02-19T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-02-19T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -158,7 +158,7 @@
             "BILLINGPOSTALCODE":"98052-8300",
             "BILLINGSTATE":"WA",
             "CUSTOMERID":"17",
-            "INVOICEDATE":"2009-03-04T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-03-04T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -169,7 +169,7 @@
             "BILLINGPOSTALCODE":"95014",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"19",
-            "INVOICEDATE":"2009-03-04T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-03-04T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -180,7 +180,7 @@
             "BILLINGPOSTALCODE":"89503",
             "BILLINGSTATE":"NV",
             "CUSTOMERID":"21",
-            "INVOICEDATE":"2009-03-05T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-03-05T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -191,7 +191,7 @@
             "BILLINGPOSTALCODE":"53703",
             "BILLINGSTATE":"WI",
             "CUSTOMERID":"25",
-            "INVOICEDATE":"2009-03-06T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-03-06T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -202,7 +202,7 @@
             "BILLINGPOSTALCODE":"B3S 1C5",
             "BILLINGSTATE":"NS",
             "CUSTOMERID":"31",
-            "INVOICEDATE":"2009-03-09T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-03-09T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -213,7 +213,7 @@
             "BILLINGPOSTALCODE":"75002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"40",
-            "INVOICEDATE":"2009-03-14T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-03-14T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -224,7 +224,7 @@
             "BILLINGPOSTALCODE":"EH4 1HH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"54",
-            "INVOICEDATE":"2009-03-22T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-03-22T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -235,7 +235,7 @@
             "BILLINGPOSTALCODE":"2010",
             "BILLINGSTATE":"NSW",
             "CUSTOMERID":"55",
-            "INVOICEDATE":"2009-04-04T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-04-04T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -246,7 +246,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"57",
-            "INVOICEDATE":"2009-04-04T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-04-04T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -257,7 +257,7 @@
             "BILLINGPOSTALCODE":"560001",
             "BILLINGSTATE":null,
             "CUSTOMERID":"59",
-            "INVOICEDATE":"2009-04-05T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-04-05T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -268,7 +268,7 @@
             "BILLINGPOSTALCODE":"0171",
             "BILLINGSTATE":null,
             "CUSTOMERID":"4",
-            "INVOICEDATE":"2009-04-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-04-06T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -279,7 +279,7 @@
             "BILLINGPOSTALCODE":"01007-010",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"10",
-            "INVOICEDATE":"2009-04-09T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-04-09T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -290,7 +290,7 @@
             "BILLINGPOSTALCODE":"95014",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"19",
-            "INVOICEDATE":"2009-04-14T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-04-14T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -301,7 +301,7 @@
             "BILLINGPOSTALCODE":"X1A 1N6",
             "BILLINGSTATE":"NT",
             "CUSTOMERID":"33",
-            "INVOICEDATE":"2009-04-22T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-04-22T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -312,7 +312,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"34",
-            "INVOICEDATE":"2009-05-05T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-05-05T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -323,7 +323,7 @@
             "BILLINGPOSTALCODE":"10789",
             "BILLINGSTATE":null,
             "CUSTOMERID":"36",
-            "INVOICEDATE":"2009-05-05T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-05-05T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -334,7 +334,7 @@
             "BILLINGPOSTALCODE":"10779",
             "BILLINGSTATE":null,
             "CUSTOMERID":"38",
-            "INVOICEDATE":"2009-05-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-05-06T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -345,7 +345,7 @@
             "BILLINGPOSTALCODE":"33000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"42",
-            "INVOICEDATE":"2009-05-07T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-05-07T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -356,7 +356,7 @@
             "BILLINGPOSTALCODE":"1016",
             "BILLINGSTATE":"VV",
             "CUSTOMERID":"48",
-            "INVOICEDATE":"2009-05-10T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-05-10T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -367,7 +367,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"57",
-            "INVOICEDATE":"2009-05-15T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-05-15T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -378,7 +378,7 @@
             "BILLINGPOSTALCODE":"20040-020",
             "BILLINGSTATE":"RJ",
             "CUSTOMERID":"12",
-            "INVOICEDATE":"2009-05-23T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-05-23T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -389,7 +389,7 @@
             "BILLINGPOSTALCODE":"71020-677",
             "BILLINGSTATE":"DF",
             "CUSTOMERID":"13",
-            "INVOICEDATE":"2009-06-05T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-06-05T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -400,7 +400,7 @@
             "BILLINGPOSTALCODE":"V6C 1G8",
             "BILLINGSTATE":"BC",
             "CUSTOMERID":"15",
-            "INVOICEDATE":"2009-06-05T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-06-05T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -411,7 +411,7 @@
             "BILLINGPOSTALCODE":"98052-8300",
             "BILLINGSTATE":"WA",
             "CUSTOMERID":"17",
-            "INVOICEDATE":"2009-06-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-06-06T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -422,7 +422,7 @@
             "BILLINGPOSTALCODE":"89503",
             "BILLINGSTATE":"NV",
             "CUSTOMERID":"21",
-            "INVOICEDATE":"2009-06-07T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-06-07T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -433,7 +433,7 @@
             "BILLINGPOSTALCODE":"85719",
             "BILLINGSTATE":"AZ",
             "CUSTOMERID":"27",
-            "INVOICEDATE":"2009-06-10T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-06-10T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -444,7 +444,7 @@
             "BILLINGPOSTALCODE":"10789",
             "BILLINGSTATE":null,
             "CUSTOMERID":"36",
-            "INVOICEDATE":"2009-06-15T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-06-15T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -455,7 +455,7 @@
             "BILLINGPOSTALCODE":"28015",
             "BILLINGSTATE":null,
             "CUSTOMERID":"50",
-            "INVOICEDATE":"2009-06-23T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-06-23T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -466,7 +466,7 @@
             "BILLINGPOSTALCODE":"11230",
             "BILLINGSTATE":null,
             "CUSTOMERID":"51",
-            "INVOICEDATE":"2009-07-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-07-06T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -477,7 +477,7 @@
             "BILLINGPOSTALCODE":"SW1V 3EN",
             "BILLINGSTATE":null,
             "CUSTOMERID":"53",
-            "INVOICEDATE":"2009-07-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-07-06T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -488,7 +488,7 @@
             "BILLINGPOSTALCODE":"2010",
             "BILLINGSTATE":"NSW",
             "CUSTOMERID":"55",
-            "INVOICEDATE":"2009-07-07T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-07-07T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -499,7 +499,7 @@
             "BILLINGPOSTALCODE":"560001",
             "BILLINGSTATE":null,
             "CUSTOMERID":"59",
-            "INVOICEDATE":"2009-07-08T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-07-08T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -510,7 +510,7 @@
             "BILLINGPOSTALCODE":"14300",
             "BILLINGSTATE":null,
             "CUSTOMERID":"6",
-            "INVOICEDATE":"2009-07-11T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-07-11T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -521,7 +521,7 @@
             "BILLINGPOSTALCODE":"V6C 1G8",
             "BILLINGSTATE":"BC",
             "CUSTOMERID":"15",
-            "INVOICEDATE":"2009-07-16T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-07-16T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -532,7 +532,7 @@
             "BILLINGPOSTALCODE":"M6J 1V1",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"29",
-            "INVOICEDATE":"2009-07-24T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-07-24T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -543,7 +543,7 @@
             "BILLINGPOSTALCODE":"K2P 1L7",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"30",
-            "INVOICEDATE":"2009-08-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-08-06T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -554,7 +554,7 @@
             "BILLINGPOSTALCODE":"R3L 2B9",
             "BILLINGSTATE":"MB",
             "CUSTOMERID":"32",
-            "INVOICEDATE":"2009-08-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-08-06T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -565,7 +565,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"34",
-            "INVOICEDATE":"2009-08-07T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-08-07T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -576,7 +576,7 @@
             "BILLINGPOSTALCODE":"10779",
             "BILLINGSTATE":null,
             "CUSTOMERID":"38",
-            "INVOICEDATE":"2009-08-08T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-08-08T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -587,7 +587,7 @@
             "BILLINGPOSTALCODE":"00530",
             "BILLINGSTATE":null,
             "CUSTOMERID":"44",
-            "INVOICEDATE":"2009-08-11T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-08-11T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -598,7 +598,7 @@
             "BILLINGPOSTALCODE":"SW1V 3EN",
             "BILLINGSTATE":null,
             "CUSTOMERID":"53",
-            "INVOICEDATE":"2009-08-16T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-08-16T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -609,7 +609,7 @@
             "BILLINGPOSTALCODE":"1000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"8",
-            "INVOICEDATE":"2009-08-24T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-08-24T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -620,7 +620,7 @@
             "BILLINGPOSTALCODE":"1720",
             "BILLINGSTATE":null,
             "CUSTOMERID":"9",
-            "INVOICEDATE":"2009-09-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-09-06T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -631,7 +631,7 @@
             "BILLINGPOSTALCODE":"01310-200",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"11",
-            "INVOICEDATE":"2009-09-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-09-06T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -642,7 +642,7 @@
             "BILLINGPOSTALCODE":"71020-677",
             "BILLINGSTATE":"DF",
             "CUSTOMERID":"13",
-            "INVOICEDATE":"2009-09-07T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-09-07T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -653,7 +653,7 @@
             "BILLINGPOSTALCODE":"98052-8300",
             "BILLINGSTATE":"WA",
             "CUSTOMERID":"17",
-            "INVOICEDATE":"2009-09-08T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-09-08T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -664,7 +664,7 @@
             "BILLINGPOSTALCODE":"2113",
             "BILLINGSTATE":"MA",
             "CUSTOMERID":"23",
-            "INVOICEDATE":"2009-09-11T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-09-11T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -675,7 +675,7 @@
             "BILLINGPOSTALCODE":"R3L 2B9",
             "BILLINGSTATE":"MB",
             "CUSTOMERID":"32",
-            "INVOICEDATE":"2009-09-16T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-09-16T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -686,7 +686,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":"Dublin",
             "CUSTOMERID":"46",
-            "INVOICEDATE":"2009-09-24T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-09-24T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -697,7 +697,7 @@
             "BILLINGPOSTALCODE":"00192",
             "BILLINGSTATE":"RM",
             "CUSTOMERID":"47",
-            "INVOICEDATE":"2009-10-07T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-10-07T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -708,7 +708,7 @@
             "BILLINGPOSTALCODE":"00-358",
             "BILLINGSTATE":null,
             "CUSTOMERID":"49",
-            "INVOICEDATE":"2009-10-07T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-10-07T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -719,7 +719,7 @@
             "BILLINGPOSTALCODE":"11230",
             "BILLINGSTATE":null,
             "CUSTOMERID":"51",
-            "INVOICEDATE":"2009-10-08T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-10-08T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -730,7 +730,7 @@
             "BILLINGPOSTALCODE":"2010",
             "BILLINGSTATE":"NSW",
             "CUSTOMERID":"55",
-            "INVOICEDATE":"2009-10-09T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-10-09T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -741,7 +741,7 @@
             "BILLINGPOSTALCODE":"70174",
             "BILLINGSTATE":null,
             "CUSTOMERID":"2",
-            "INVOICEDATE":"2009-10-12T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-10-12T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -752,7 +752,7 @@
             "BILLINGPOSTALCODE":"01310-200",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"11",
-            "INVOICEDATE":"2009-10-17T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-10-17T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -763,7 +763,7 @@
             "BILLINGPOSTALCODE":"53703",
             "BILLINGSTATE":"WI",
             "CUSTOMERID":"25",
-            "INVOICEDATE":"2009-10-25T00:00:00.000-07:00",
+            "INVOICEDATE":"2009-10-25T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -774,7 +774,7 @@
             "BILLINGPOSTALCODE":"76110",
             "BILLINGSTATE":"TX",
             "CUSTOMERID":"26",
-            "INVOICEDATE":"2009-11-07T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-11-07T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -785,7 +785,7 @@
             "BILLINGPOSTALCODE":"84102",
             "BILLINGSTATE":"UT",
             "CUSTOMERID":"28",
-            "INVOICEDATE":"2009-11-07T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-11-07T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -796,7 +796,7 @@
             "BILLINGPOSTALCODE":"K2P 1L7",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"30",
-            "INVOICEDATE":"2009-11-08T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-11-08T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -807,7 +807,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"34",
-            "INVOICEDATE":"2009-11-09T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-11-09T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -818,7 +818,7 @@
             "BILLINGPOSTALCODE":"75002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"40",
-            "INVOICEDATE":"2009-11-12T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-11-12T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -829,7 +829,7 @@
             "BILLINGPOSTALCODE":"00-358",
             "BILLINGSTATE":null,
             "CUSTOMERID":"49",
-            "INVOICEDATE":"2009-11-17T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-11-17T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -840,7 +840,7 @@
             "BILLINGPOSTALCODE":"0171",
             "BILLINGSTATE":null,
             "CUSTOMERID":"4",
-            "INVOICEDATE":"2009-11-25T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-11-25T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -851,7 +851,7 @@
             "BILLINGPOSTALCODE":"14700",
             "BILLINGSTATE":null,
             "CUSTOMERID":"5",
-            "INVOICEDATE":"2009-12-08T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-12-08T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -862,7 +862,7 @@
             "BILLINGPOSTALCODE":"1010",
             "BILLINGSTATE":null,
             "CUSTOMERID":"7",
-            "INVOICEDATE":"2009-12-08T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-12-08T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -873,7 +873,7 @@
             "BILLINGPOSTALCODE":"1720",
             "BILLINGSTATE":null,
             "CUSTOMERID":"9",
-            "INVOICEDATE":"2009-12-09T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-12-09T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -884,7 +884,7 @@
             "BILLINGPOSTALCODE":"71020-677",
             "BILLINGSTATE":"DF",
             "CUSTOMERID":"13",
-            "INVOICEDATE":"2009-12-10T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-12-10T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -895,7 +895,7 @@
             "BILLINGPOSTALCODE":"95014",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"19",
-            "INVOICEDATE":"2009-12-13T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-12-13T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -906,7 +906,7 @@
             "BILLINGPOSTALCODE":"84102",
             "BILLINGSTATE":"UT",
             "CUSTOMERID":"28",
-            "INVOICEDATE":"2009-12-18T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-12-18T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -917,7 +917,7 @@
             "BILLINGPOSTALCODE":"33000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"42",
-            "INVOICEDATE":"2009-12-26T00:00:00.000-08:00",
+            "INVOICEDATE":"2009-12-26T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -928,7 +928,7 @@
             "BILLINGPOSTALCODE":"21000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"43",
-            "INVOICEDATE":"2010-01-08T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-01-08T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -939,7 +939,7 @@
             "BILLINGPOSTALCODE":"H-1073",
             "BILLINGSTATE":null,
             "CUSTOMERID":"45",
-            "INVOICEDATE":"2010-01-08T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-01-08T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -950,7 +950,7 @@
             "BILLINGPOSTALCODE":"00192",
             "BILLINGSTATE":"RM",
             "CUSTOMERID":"47",
-            "INVOICEDATE":"2010-01-09T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-01-09T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -961,7 +961,7 @@
             "BILLINGPOSTALCODE":"11230",
             "BILLINGSTATE":null,
             "CUSTOMERID":"51",
-            "INVOICEDATE":"2010-01-10T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-01-10T00:00:00.000-05:00",
             "TOTAL":"6.94"
         },
         {
@@ -972,7 +972,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"57",
-            "INVOICEDATE":"2010-01-13T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-01-13T00:00:00.000-05:00",
             "TOTAL":"17.91"
         },
         {
@@ -983,7 +983,7 @@
             "BILLINGPOSTALCODE":"1010",
             "BILLINGSTATE":null,
             "CUSTOMERID":"7",
-            "INVOICEDATE":"2010-01-18T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-01-18T00:00:00.000-05:00",
             "TOTAL":"18.86"
         },
         {
@@ -994,7 +994,7 @@
             "BILLINGPOSTALCODE":"89503",
             "BILLINGSTATE":"NV",
             "CUSTOMERID":"21",
-            "INVOICEDATE":"2010-01-26T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-01-26T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -1005,7 +1005,7 @@
             "BILLINGPOSTALCODE":"32801",
             "BILLINGSTATE":"FL",
             "CUSTOMERID":"22",
-            "INVOICEDATE":"2010-02-08T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-02-08T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -1016,7 +1016,7 @@
             "BILLINGPOSTALCODE":"60611",
             "BILLINGSTATE":"IL",
             "CUSTOMERID":"24",
-            "INVOICEDATE":"2010-02-08T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-02-08T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -1027,7 +1027,7 @@
             "BILLINGPOSTALCODE":"76110",
             "BILLINGSTATE":"TX",
             "CUSTOMERID":"26",
-            "INVOICEDATE":"2010-02-09T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-02-09T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -1038,7 +1038,7 @@
             "BILLINGPOSTALCODE":"K2P 1L7",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"30",
-            "INVOICEDATE":"2010-02-10T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-02-10T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -1049,7 +1049,7 @@
             "BILLINGPOSTALCODE":"10789",
             "BILLINGSTATE":null,
             "CUSTOMERID":"36",
-            "INVOICEDATE":"2010-02-13T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-02-13T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -1060,7 +1060,7 @@
             "BILLINGPOSTALCODE":"H-1073",
             "BILLINGSTATE":null,
             "CUSTOMERID":"45",
-            "INVOICEDATE":"2010-02-18T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-02-18T00:00:00.000-05:00",
             "TOTAL":"21.86"
         },
         {
@@ -1071,7 +1071,7 @@
             "BILLINGPOSTALCODE":"560001",
             "BILLINGSTATE":null,
             "CUSTOMERID":"59",
-            "INVOICEDATE":"2010-02-26T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-02-26T00:00:00.000-05:00",
             "TOTAL":"1.99"
         },
         {
@@ -1082,7 +1082,7 @@
             "BILLINGPOSTALCODE":"12227-000",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"1",
-            "INVOICEDATE":"2010-03-11T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-03-11T00:00:00.000-05:00",
             "TOTAL":"3.98"
         },
         {
@@ -1093,7 +1093,7 @@
             "BILLINGPOSTALCODE":"H2G 1A7",
             "BILLINGSTATE":"QC",
             "CUSTOMERID":"3",
-            "INVOICEDATE":"2010-03-11T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-03-11T00:00:00.000-05:00",
             "TOTAL":"3.98"
         },
         {
@@ -1104,7 +1104,7 @@
             "BILLINGPOSTALCODE":"14700",
             "BILLINGSTATE":null,
             "CUSTOMERID":"5",
-            "INVOICEDATE":"2010-03-12T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-03-12T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -1115,7 +1115,7 @@
             "BILLINGPOSTALCODE":"1720",
             "BILLINGSTATE":null,
             "CUSTOMERID":"9",
-            "INVOICEDATE":"2010-03-13T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-03-13T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -1126,7 +1126,7 @@
             "BILLINGPOSTALCODE":"V6C 1G8",
             "BILLINGSTATE":"BC",
             "CUSTOMERID":"15",
-            "INVOICEDATE":"2010-03-16T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-03-16T00:00:00.000-04:00",
             "TOTAL":"9.91"
         },
         {
@@ -1137,7 +1137,7 @@
             "BILLINGPOSTALCODE":"60611",
             "BILLINGSTATE":"IL",
             "CUSTOMERID":"24",
-            "INVOICEDATE":"2010-03-21T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-03-21T00:00:00.000-04:00",
             "TOTAL":"15.86"
         },
         {
@@ -1148,7 +1148,7 @@
             "BILLINGPOSTALCODE":"10779",
             "BILLINGSTATE":null,
             "CUSTOMERID":"38",
-            "INVOICEDATE":"2010-03-29T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-03-29T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -1159,7 +1159,7 @@
             "BILLINGPOSTALCODE":"75009",
             "BILLINGSTATE":null,
             "CUSTOMERID":"39",
-            "INVOICEDATE":"2010-04-11T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-04-11T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1170,7 +1170,7 @@
             "BILLINGPOSTALCODE":"69002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"41",
-            "INVOICEDATE":"2010-04-11T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-04-11T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1181,7 +1181,7 @@
             "BILLINGPOSTALCODE":"21000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"43",
-            "INVOICEDATE":"2010-04-12T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-04-12T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -1192,7 +1192,7 @@
             "BILLINGPOSTALCODE":"00192",
             "BILLINGSTATE":"RM",
             "CUSTOMERID":"47",
-            "INVOICEDATE":"2010-04-13T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-04-13T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -1203,7 +1203,7 @@
             "BILLINGPOSTALCODE":"SW1V 3EN",
             "BILLINGSTATE":null,
             "CUSTOMERID":"53",
-            "INVOICEDATE":"2010-04-16T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-04-16T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -1214,7 +1214,7 @@
             "BILLINGPOSTALCODE":"H2G 1A7",
             "BILLINGSTATE":"QC",
             "CUSTOMERID":"3",
-            "INVOICEDATE":"2010-04-21T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-04-21T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -1225,7 +1225,7 @@
             "BILLINGPOSTALCODE":"98052-8300",
             "BILLINGSTATE":"WA",
             "CUSTOMERID":"17",
-            "INVOICEDATE":"2010-04-29T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-04-29T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -1236,7 +1236,7 @@
             "BILLINGPOSTALCODE":"10012-2612",
             "BILLINGSTATE":"NY",
             "CUSTOMERID":"18",
-            "INVOICEDATE":"2010-05-12T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-05-12T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1247,7 +1247,7 @@
             "BILLINGPOSTALCODE":"94040-111",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"20",
-            "INVOICEDATE":"2010-05-12T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-05-12T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1258,7 +1258,7 @@
             "BILLINGPOSTALCODE":"32801",
             "BILLINGSTATE":"FL",
             "CUSTOMERID":"22",
-            "INVOICEDATE":"2010-05-13T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-05-13T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -1269,7 +1269,7 @@
             "BILLINGPOSTALCODE":"76110",
             "BILLINGSTATE":"TX",
             "CUSTOMERID":"26",
-            "INVOICEDATE":"2010-05-14T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-05-14T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -1280,7 +1280,7 @@
             "BILLINGPOSTALCODE":"R3L 2B9",
             "BILLINGSTATE":"MB",
             "CUSTOMERID":"32",
-            "INVOICEDATE":"2010-05-17T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-05-17T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -1291,7 +1291,7 @@
             "BILLINGPOSTALCODE":"69002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"41",
-            "INVOICEDATE":"2010-05-22T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-05-22T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -1302,7 +1302,7 @@
             "BILLINGPOSTALCODE":"2010",
             "BILLINGSTATE":"NSW",
             "CUSTOMERID":"55",
-            "INVOICEDATE":"2010-05-30T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-05-30T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -1313,7 +1313,7 @@
             "BILLINGPOSTALCODE":"1106",
             "BILLINGSTATE":null,
             "CUSTOMERID":"56",
-            "INVOICEDATE":"2010-06-12T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-06-12T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1324,7 +1324,7 @@
             "BILLINGPOSTALCODE":"110017",
             "BILLINGSTATE":null,
             "CUSTOMERID":"58",
-            "INVOICEDATE":"2010-06-12T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-06-12T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1335,7 +1335,7 @@
             "BILLINGPOSTALCODE":"12227-000",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"1",
-            "INVOICEDATE":"2010-06-13T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-06-13T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -1346,7 +1346,7 @@
             "BILLINGPOSTALCODE":"14700",
             "BILLINGSTATE":null,
             "CUSTOMERID":"5",
-            "INVOICEDATE":"2010-06-14T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-06-14T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -1357,7 +1357,7 @@
             "BILLINGPOSTALCODE":"01310-200",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"11",
-            "INVOICEDATE":"2010-06-17T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-06-17T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -1368,7 +1368,7 @@
             "BILLINGPOSTALCODE":"94040-111",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"20",
-            "INVOICEDATE":"2010-06-22T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-06-22T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -1379,7 +1379,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"34",
-            "INVOICEDATE":"2010-06-30T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-06-30T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -1390,7 +1390,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"35",
-            "INVOICEDATE":"2010-07-13T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-07-13T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1401,7 +1401,7 @@
             "BILLINGPOSTALCODE":"60316",
             "BILLINGSTATE":null,
             "CUSTOMERID":"37",
-            "INVOICEDATE":"2010-07-13T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-07-13T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1412,7 +1412,7 @@
             "BILLINGPOSTALCODE":"75009",
             "BILLINGSTATE":null,
             "CUSTOMERID":"39",
-            "INVOICEDATE":"2010-07-14T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-07-14T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -1423,7 +1423,7 @@
             "BILLINGPOSTALCODE":"21000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"43",
-            "INVOICEDATE":"2010-07-15T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-07-15T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -1434,7 +1434,7 @@
             "BILLINGPOSTALCODE":"00-358",
             "BILLINGSTATE":null,
             "CUSTOMERID":"49",
-            "INVOICEDATE":"2010-07-18T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-07-18T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -1445,7 +1445,7 @@
             "BILLINGPOSTALCODE":"110017",
             "BILLINGSTATE":null,
             "CUSTOMERID":"58",
-            "INVOICEDATE":"2010-07-23T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-07-23T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -1456,7 +1456,7 @@
             "BILLINGPOSTALCODE":"71020-677",
             "BILLINGSTATE":"DF",
             "CUSTOMERID":"13",
-            "INVOICEDATE":"2010-07-31T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-07-31T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -1467,7 +1467,7 @@
             "BILLINGPOSTALCODE":"T6G 2C7",
             "BILLINGSTATE":"AB",
             "CUSTOMERID":"14",
-            "INVOICEDATE":"2010-08-13T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-08-13T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1478,7 +1478,7 @@
             "BILLINGPOSTALCODE":"94043-1351",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"16",
-            "INVOICEDATE":"2010-08-13T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-08-13T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1489,7 +1489,7 @@
             "BILLINGPOSTALCODE":"10012-2612",
             "BILLINGSTATE":"NY",
             "CUSTOMERID":"18",
-            "INVOICEDATE":"2010-08-14T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-08-14T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -1500,7 +1500,7 @@
             "BILLINGPOSTALCODE":"32801",
             "BILLINGSTATE":"FL",
             "CUSTOMERID":"22",
-            "INVOICEDATE":"2010-08-15T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-08-15T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -1511,7 +1511,7 @@
             "BILLINGPOSTALCODE":"84102",
             "BILLINGSTATE":"UT",
             "CUSTOMERID":"28",
-            "INVOICEDATE":"2010-08-18T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-08-18T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -1522,7 +1522,7 @@
             "BILLINGPOSTALCODE":"60316",
             "BILLINGSTATE":null,
             "CUSTOMERID":"37",
-            "INVOICEDATE":"2010-08-23T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-08-23T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -1533,7 +1533,7 @@
             "BILLINGPOSTALCODE":"11230",
             "BILLINGSTATE":null,
             "CUSTOMERID":"51",
-            "INVOICEDATE":"2010-08-31T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-08-31T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -1544,7 +1544,7 @@
             "BILLINGPOSTALCODE":"N1 5LH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"52",
-            "INVOICEDATE":"2010-09-13T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-09-13T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1555,7 +1555,7 @@
             "BILLINGPOSTALCODE":"EH4 1HH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"54",
-            "INVOICEDATE":"2010-09-13T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-09-13T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1566,7 +1566,7 @@
             "BILLINGPOSTALCODE":"1106",
             "BILLINGSTATE":null,
             "CUSTOMERID":"56",
-            "INVOICEDATE":"2010-09-14T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-09-14T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -1577,7 +1577,7 @@
             "BILLINGPOSTALCODE":"12227-000",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"1",
-            "INVOICEDATE":"2010-09-15T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-09-15T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -1588,7 +1588,7 @@
             "BILLINGPOSTALCODE":"1010",
             "BILLINGSTATE":null,
             "CUSTOMERID":"7",
-            "INVOICEDATE":"2010-09-18T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-09-18T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -1599,7 +1599,7 @@
             "BILLINGPOSTALCODE":"94043-1351",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"16",
-            "INVOICEDATE":"2010-09-23T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-09-23T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -1610,7 +1610,7 @@
             "BILLINGPOSTALCODE":"K2P 1L7",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"30",
-            "INVOICEDATE":"2010-10-01T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-10-01T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -1621,7 +1621,7 @@
             "BILLINGPOSTALCODE":"B3S 1C5",
             "BILLINGSTATE":"NS",
             "CUSTOMERID":"31",
-            "INVOICEDATE":"2010-10-14T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-10-14T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1632,7 +1632,7 @@
             "BILLINGPOSTALCODE":"X1A 1N6",
             "BILLINGSTATE":"NT",
             "CUSTOMERID":"33",
-            "INVOICEDATE":"2010-10-14T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-10-14T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -1643,7 +1643,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"35",
-            "INVOICEDATE":"2010-10-15T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-10-15T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -1654,7 +1654,7 @@
             "BILLINGPOSTALCODE":"75009",
             "BILLINGSTATE":null,
             "CUSTOMERID":"39",
-            "INVOICEDATE":"2010-10-16T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-10-16T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -1665,7 +1665,7 @@
             "BILLINGPOSTALCODE":"H-1073",
             "BILLINGSTATE":null,
             "CUSTOMERID":"45",
-            "INVOICEDATE":"2010-10-19T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-10-19T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -1676,7 +1676,7 @@
             "BILLINGPOSTALCODE":"EH4 1HH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"54",
-            "INVOICEDATE":"2010-10-24T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-10-24T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -1687,7 +1687,7 @@
             "BILLINGPOSTALCODE":"1720",
             "BILLINGSTATE":null,
             "CUSTOMERID":"9",
-            "INVOICEDATE":"2010-11-01T00:00:00.000-07:00",
+            "INVOICEDATE":"2010-11-01T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -1698,7 +1698,7 @@
             "BILLINGPOSTALCODE":"01007-010",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"10",
-            "INVOICEDATE":"2010-11-14T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-11-14T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -1709,7 +1709,7 @@
             "BILLINGPOSTALCODE":"20040-020",
             "BILLINGSTATE":"RJ",
             "CUSTOMERID":"12",
-            "INVOICEDATE":"2010-11-14T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-11-14T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -1720,7 +1720,7 @@
             "BILLINGPOSTALCODE":"T6G 2C7",
             "BILLINGSTATE":"AB",
             "CUSTOMERID":"14",
-            "INVOICEDATE":"2010-11-15T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-11-15T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -1731,7 +1731,7 @@
             "BILLINGPOSTALCODE":"10012-2612",
             "BILLINGSTATE":"NY",
             "CUSTOMERID":"18",
-            "INVOICEDATE":"2010-11-16T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-11-16T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -1742,7 +1742,7 @@
             "BILLINGPOSTALCODE":"60611",
             "BILLINGSTATE":"IL",
             "CUSTOMERID":"24",
-            "INVOICEDATE":"2010-11-19T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-11-19T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -1753,7 +1753,7 @@
             "BILLINGPOSTALCODE":"X1A 1N6",
             "BILLINGSTATE":"NT",
             "CUSTOMERID":"33",
-            "INVOICEDATE":"2010-11-24T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-11-24T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -1764,7 +1764,7 @@
             "BILLINGPOSTALCODE":"00192",
             "BILLINGSTATE":"RM",
             "CUSTOMERID":"47",
-            "INVOICEDATE":"2010-12-02T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-12-02T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -1775,7 +1775,7 @@
             "BILLINGPOSTALCODE":"1016",
             "BILLINGSTATE":"VV",
             "CUSTOMERID":"48",
-            "INVOICEDATE":"2010-12-15T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-12-15T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -1786,7 +1786,7 @@
             "BILLINGPOSTALCODE":"28015",
             "BILLINGSTATE":null,
             "CUSTOMERID":"50",
-            "INVOICEDATE":"2010-12-15T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-12-15T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -1797,7 +1797,7 @@
             "BILLINGPOSTALCODE":"N1 5LH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"52",
-            "INVOICEDATE":"2010-12-16T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-12-16T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -1808,7 +1808,7 @@
             "BILLINGPOSTALCODE":"1106",
             "BILLINGSTATE":null,
             "CUSTOMERID":"56",
-            "INVOICEDATE":"2010-12-17T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-12-17T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -1819,7 +1819,7 @@
             "BILLINGPOSTALCODE":"H2G 1A7",
             "BILLINGSTATE":"QC",
             "CUSTOMERID":"3",
-            "INVOICEDATE":"2010-12-20T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-12-20T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -1830,7 +1830,7 @@
             "BILLINGPOSTALCODE":"20040-020",
             "BILLINGSTATE":"RJ",
             "CUSTOMERID":"12",
-            "INVOICEDATE":"2010-12-25T00:00:00.000-08:00",
+            "INVOICEDATE":"2010-12-25T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -1841,7 +1841,7 @@
             "BILLINGPOSTALCODE":"76110",
             "BILLINGSTATE":"TX",
             "CUSTOMERID":"26",
-            "INVOICEDATE":"2011-01-02T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-01-02T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -1852,7 +1852,7 @@
             "BILLINGPOSTALCODE":"85719",
             "BILLINGSTATE":"AZ",
             "CUSTOMERID":"27",
-            "INVOICEDATE":"2011-01-15T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-01-15T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -1863,7 +1863,7 @@
             "BILLINGPOSTALCODE":"M6J 1V1",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"29",
-            "INVOICEDATE":"2011-01-15T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-01-15T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -1874,7 +1874,7 @@
             "BILLINGPOSTALCODE":"B3S 1C5",
             "BILLINGSTATE":"NS",
             "CUSTOMERID":"31",
-            "INVOICEDATE":"2011-01-16T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-01-16T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -1885,7 +1885,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"35",
-            "INVOICEDATE":"2011-01-17T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-01-17T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -1896,7 +1896,7 @@
             "BILLINGPOSTALCODE":"69002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"41",
-            "INVOICEDATE":"2011-01-20T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-01-20T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -1907,7 +1907,7 @@
             "BILLINGPOSTALCODE":"28015",
             "BILLINGSTATE":null,
             "CUSTOMERID":"50",
-            "INVOICEDATE":"2011-01-25T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-01-25T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -1918,7 +1918,7 @@
             "BILLINGPOSTALCODE":"14700",
             "BILLINGSTATE":null,
             "CUSTOMERID":"5",
-            "INVOICEDATE":"2011-02-02T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-02-02T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -1929,7 +1929,7 @@
             "BILLINGPOSTALCODE":"14300",
             "BILLINGSTATE":null,
             "CUSTOMERID":"6",
-            "INVOICEDATE":"2011-02-15T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-02-15T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -1940,7 +1940,7 @@
             "BILLINGPOSTALCODE":"1000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"8",
-            "INVOICEDATE":"2011-02-15T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-02-15T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -1951,7 +1951,7 @@
             "BILLINGPOSTALCODE":"01007-010",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"10",
-            "INVOICEDATE":"2011-02-16T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-02-16T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -1962,7 +1962,7 @@
             "BILLINGPOSTALCODE":"T6G 2C7",
             "BILLINGSTATE":"AB",
             "CUSTOMERID":"14",
-            "INVOICEDATE":"2011-02-17T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-02-17T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -1973,7 +1973,7 @@
             "BILLINGPOSTALCODE":"94040-111",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"20",
-            "INVOICEDATE":"2011-02-20T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-02-20T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -1984,7 +1984,7 @@
             "BILLINGPOSTALCODE":"M6J 1V1",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"29",
-            "INVOICEDATE":"2011-02-25T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-02-25T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -1995,7 +1995,7 @@
             "BILLINGPOSTALCODE":"21000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"43",
-            "INVOICEDATE":"2011-03-05T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-03-05T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -2006,7 +2006,7 @@
             "BILLINGPOSTALCODE":"00530",
             "BILLINGSTATE":null,
             "CUSTOMERID":"44",
-            "INVOICEDATE":"2011-03-18T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-03-18T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2017,7 +2017,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":"Dublin",
             "CUSTOMERID":"46",
-            "INVOICEDATE":"2011-03-18T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-03-18T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2028,7 +2028,7 @@
             "BILLINGPOSTALCODE":"1016",
             "BILLINGSTATE":"VV",
             "CUSTOMERID":"48",
-            "INVOICEDATE":"2011-03-19T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-03-19T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -2039,7 +2039,7 @@
             "BILLINGPOSTALCODE":"N1 5LH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"52",
-            "INVOICEDATE":"2011-03-20T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-03-20T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -2050,7 +2050,7 @@
             "BILLINGPOSTALCODE":"110017",
             "BILLINGSTATE":null,
             "CUSTOMERID":"58",
-            "INVOICEDATE":"2011-03-23T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-03-23T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -2061,7 +2061,7 @@
             "BILLINGPOSTALCODE":"1000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"8",
-            "INVOICEDATE":"2011-03-28T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-03-28T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -2072,7 +2072,7 @@
             "BILLINGPOSTALCODE":"32801",
             "BILLINGSTATE":"FL",
             "CUSTOMERID":"22",
-            "INVOICEDATE":"2011-04-05T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-04-05T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -2083,7 +2083,7 @@
             "BILLINGPOSTALCODE":"2113",
             "BILLINGSTATE":"MA",
             "CUSTOMERID":"23",
-            "INVOICEDATE":"2011-04-18T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-04-18T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2094,7 +2094,7 @@
             "BILLINGPOSTALCODE":"53703",
             "BILLINGSTATE":"WI",
             "CUSTOMERID":"25",
-            "INVOICEDATE":"2011-04-18T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-04-18T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2105,7 +2105,7 @@
             "BILLINGPOSTALCODE":"85719",
             "BILLINGSTATE":"AZ",
             "CUSTOMERID":"27",
-            "INVOICEDATE":"2011-04-19T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-04-19T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -2116,7 +2116,7 @@
             "BILLINGPOSTALCODE":"B3S 1C5",
             "BILLINGSTATE":"NS",
             "CUSTOMERID":"31",
-            "INVOICEDATE":"2011-04-20T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-04-20T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -2127,7 +2127,7 @@
             "BILLINGPOSTALCODE":"60316",
             "BILLINGSTATE":null,
             "CUSTOMERID":"37",
-            "INVOICEDATE":"2011-04-23T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-04-23T00:00:00.000-04:00",
             "TOTAL":"14.91"
         },
         {
@@ -2138,7 +2138,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":"Dublin",
             "CUSTOMERID":"46",
-            "INVOICEDATE":"2011-04-28T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-04-28T00:00:00.000-04:00",
             "TOTAL":"21.86"
         },
         {
@@ -2149,7 +2149,7 @@
             "BILLINGPOSTALCODE":"12227-000",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"1",
-            "INVOICEDATE":"2011-05-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-05-06T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -2160,7 +2160,7 @@
             "BILLINGPOSTALCODE":"70174",
             "BILLINGSTATE":null,
             "CUSTOMERID":"2",
-            "INVOICEDATE":"2011-05-19T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-05-19T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2171,7 +2171,7 @@
             "BILLINGPOSTALCODE":"0171",
             "BILLINGSTATE":null,
             "CUSTOMERID":"4",
-            "INVOICEDATE":"2011-05-19T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-05-19T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2182,7 +2182,7 @@
             "BILLINGPOSTALCODE":"14300",
             "BILLINGSTATE":null,
             "CUSTOMERID":"6",
-            "INVOICEDATE":"2011-05-20T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-05-20T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -2193,7 +2193,7 @@
             "BILLINGPOSTALCODE":"01007-010",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"10",
-            "INVOICEDATE":"2011-05-21T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-05-21T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -2204,7 +2204,7 @@
             "BILLINGPOSTALCODE":"94043-1351",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"16",
-            "INVOICEDATE":"2011-05-24T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-05-24T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -2215,7 +2215,7 @@
             "BILLINGPOSTALCODE":"53703",
             "BILLINGSTATE":"WI",
             "CUSTOMERID":"25",
-            "INVOICEDATE":"2011-05-29T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-05-29T00:00:00.000-04:00",
             "TOTAL":"18.86"
         },
         {
@@ -2226,7 +2226,7 @@
             "BILLINGPOSTALCODE":"75009",
             "BILLINGSTATE":null,
             "CUSTOMERID":"39",
-            "INVOICEDATE":"2011-06-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-06-06T00:00:00.000-04:00",
             "TOTAL":"1.99"
         },
         {
@@ -2237,7 +2237,7 @@
             "BILLINGPOSTALCODE":"75002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"40",
-            "INVOICEDATE":"2011-06-19T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-06-19T00:00:00.000-04:00",
             "TOTAL":"2.98"
         },
         {
@@ -2248,7 +2248,7 @@
             "BILLINGPOSTALCODE":"33000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"42",
-            "INVOICEDATE":"2011-06-19T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-06-19T00:00:00.000-04:00",
             "TOTAL":"3.98"
         },
         {
@@ -2259,7 +2259,7 @@
             "BILLINGPOSTALCODE":"00530",
             "BILLINGSTATE":null,
             "CUSTOMERID":"44",
-            "INVOICEDATE":"2011-06-20T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-06-20T00:00:00.000-04:00",
             "TOTAL":"7.96"
         },
         {
@@ -2270,7 +2270,7 @@
             "BILLINGPOSTALCODE":"1016",
             "BILLINGSTATE":"VV",
             "CUSTOMERID":"48",
-            "INVOICEDATE":"2011-06-21T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-06-21T00:00:00.000-04:00",
             "TOTAL":"8.94"
         },
         {
@@ -2281,7 +2281,7 @@
             "BILLINGPOSTALCODE":"EH4 1HH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"54",
-            "INVOICEDATE":"2011-06-24T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-06-24T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -2292,7 +2292,7 @@
             "BILLINGPOSTALCODE":"0171",
             "BILLINGSTATE":null,
             "CUSTOMERID":"4",
-            "INVOICEDATE":"2011-06-29T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-06-29T00:00:00.000-04:00",
             "TOTAL":"15.86"
         },
         {
@@ -2303,7 +2303,7 @@
             "BILLINGPOSTALCODE":"10012-2612",
             "BILLINGSTATE":"NY",
             "CUSTOMERID":"18",
-            "INVOICEDATE":"2011-07-07T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-07-07T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -2314,7 +2314,7 @@
             "BILLINGPOSTALCODE":"95014",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"19",
-            "INVOICEDATE":"2011-07-20T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-07-20T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2325,7 +2325,7 @@
             "BILLINGPOSTALCODE":"89503",
             "BILLINGSTATE":"NV",
             "CUSTOMERID":"21",
-            "INVOICEDATE":"2011-07-20T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-07-20T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2336,7 +2336,7 @@
             "BILLINGPOSTALCODE":"2113",
             "BILLINGSTATE":"MA",
             "CUSTOMERID":"23",
-            "INVOICEDATE":"2011-07-21T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-07-21T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -2347,7 +2347,7 @@
             "BILLINGPOSTALCODE":"85719",
             "BILLINGSTATE":"AZ",
             "CUSTOMERID":"27",
-            "INVOICEDATE":"2011-07-22T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-07-22T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -2358,7 +2358,7 @@
             "BILLINGPOSTALCODE":"X1A 1N6",
             "BILLINGSTATE":"NT",
             "CUSTOMERID":"33",
-            "INVOICEDATE":"2011-07-25T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-07-25T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -2369,7 +2369,7 @@
             "BILLINGPOSTALCODE":"33000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"42",
-            "INVOICEDATE":"2011-07-30T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-07-30T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -2380,7 +2380,7 @@
             "BILLINGPOSTALCODE":"1106",
             "BILLINGSTATE":null,
             "CUSTOMERID":"56",
-            "INVOICEDATE":"2011-08-07T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-08-07T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -2391,7 +2391,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"57",
-            "INVOICEDATE":"2011-08-20T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-08-20T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2402,7 +2402,7 @@
             "BILLINGPOSTALCODE":"560001",
             "BILLINGSTATE":null,
             "CUSTOMERID":"59",
-            "INVOICEDATE":"2011-08-20T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-08-20T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2413,7 +2413,7 @@
             "BILLINGPOSTALCODE":"70174",
             "BILLINGSTATE":null,
             "CUSTOMERID":"2",
-            "INVOICEDATE":"2011-08-21T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-08-21T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -2424,7 +2424,7 @@
             "BILLINGPOSTALCODE":"14300",
             "BILLINGSTATE":null,
             "CUSTOMERID":"6",
-            "INVOICEDATE":"2011-08-22T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-08-22T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -2435,7 +2435,7 @@
             "BILLINGPOSTALCODE":"20040-020",
             "BILLINGSTATE":"RJ",
             "CUSTOMERID":"12",
-            "INVOICEDATE":"2011-08-25T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-08-25T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -2446,7 +2446,7 @@
             "BILLINGPOSTALCODE":"89503",
             "BILLINGSTATE":"NV",
             "CUSTOMERID":"21",
-            "INVOICEDATE":"2011-08-30T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-08-30T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -2457,7 +2457,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"35",
-            "INVOICEDATE":"2011-09-07T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-09-07T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -2468,7 +2468,7 @@
             "BILLINGPOSTALCODE":"10789",
             "BILLINGSTATE":null,
             "CUSTOMERID":"36",
-            "INVOICEDATE":"2011-09-20T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-09-20T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2479,7 +2479,7 @@
             "BILLINGPOSTALCODE":"10779",
             "BILLINGSTATE":null,
             "CUSTOMERID":"38",
-            "INVOICEDATE":"2011-09-20T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-09-20T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2490,7 +2490,7 @@
             "BILLINGPOSTALCODE":"75002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"40",
-            "INVOICEDATE":"2011-09-21T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-09-21T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -2501,7 +2501,7 @@
             "BILLINGPOSTALCODE":"00530",
             "BILLINGSTATE":null,
             "CUSTOMERID":"44",
-            "INVOICEDATE":"2011-09-22T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-09-22T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -2512,7 +2512,7 @@
             "BILLINGPOSTALCODE":"28015",
             "BILLINGSTATE":null,
             "CUSTOMERID":"50",
-            "INVOICEDATE":"2011-09-25T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-09-25T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -2523,7 +2523,7 @@
             "BILLINGPOSTALCODE":"560001",
             "BILLINGSTATE":null,
             "CUSTOMERID":"59",
-            "INVOICEDATE":"2011-09-30T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-09-30T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -2534,7 +2534,7 @@
             "BILLINGPOSTALCODE":"T6G 2C7",
             "BILLINGSTATE":"AB",
             "CUSTOMERID":"14",
-            "INVOICEDATE":"2011-10-08T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-10-08T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -2545,7 +2545,7 @@
             "BILLINGPOSTALCODE":"V6C 1G8",
             "BILLINGSTATE":"BC",
             "CUSTOMERID":"15",
-            "INVOICEDATE":"2011-10-21T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-10-21T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2556,7 +2556,7 @@
             "BILLINGPOSTALCODE":"98052-8300",
             "BILLINGSTATE":"WA",
             "CUSTOMERID":"17",
-            "INVOICEDATE":"2011-10-21T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-10-21T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2567,7 +2567,7 @@
             "BILLINGPOSTALCODE":"95014",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"19",
-            "INVOICEDATE":"2011-10-22T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-10-22T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -2578,7 +2578,7 @@
             "BILLINGPOSTALCODE":"2113",
             "BILLINGSTATE":"MA",
             "CUSTOMERID":"23",
-            "INVOICEDATE":"2011-10-23T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-10-23T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -2589,7 +2589,7 @@
             "BILLINGPOSTALCODE":"M6J 1V1",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"29",
-            "INVOICEDATE":"2011-10-26T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-10-26T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -2600,7 +2600,7 @@
             "BILLINGPOSTALCODE":"10779",
             "BILLINGSTATE":null,
             "CUSTOMERID":"38",
-            "INVOICEDATE":"2011-10-31T00:00:00.000-07:00",
+            "INVOICEDATE":"2011-10-31T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -2611,7 +2611,7 @@
             "BILLINGPOSTALCODE":"N1 5LH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"52",
-            "INVOICEDATE":"2011-11-08T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-11-08T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -2622,7 +2622,7 @@
             "BILLINGPOSTALCODE":"SW1V 3EN",
             "BILLINGSTATE":null,
             "CUSTOMERID":"53",
-            "INVOICEDATE":"2011-11-21T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-11-21T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -2633,7 +2633,7 @@
             "BILLINGPOSTALCODE":"2010",
             "BILLINGSTATE":"NSW",
             "CUSTOMERID":"55",
-            "INVOICEDATE":"2011-11-21T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-11-21T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -2644,7 +2644,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"57",
-            "INVOICEDATE":"2011-11-22T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-11-22T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -2655,7 +2655,7 @@
             "BILLINGPOSTALCODE":"70174",
             "BILLINGSTATE":null,
             "CUSTOMERID":"2",
-            "INVOICEDATE":"2011-11-23T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-11-23T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -2666,7 +2666,7 @@
             "BILLINGPOSTALCODE":"1000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"8",
-            "INVOICEDATE":"2011-11-26T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-11-26T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -2677,7 +2677,7 @@
             "BILLINGPOSTALCODE":"98052-8300",
             "BILLINGSTATE":"WA",
             "CUSTOMERID":"17",
-            "INVOICEDATE":"2011-12-01T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-12-01T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -2688,7 +2688,7 @@
             "BILLINGPOSTALCODE":"B3S 1C5",
             "BILLINGSTATE":"NS",
             "CUSTOMERID":"31",
-            "INVOICEDATE":"2011-12-09T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-12-09T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -2699,7 +2699,7 @@
             "BILLINGPOSTALCODE":"R3L 2B9",
             "BILLINGSTATE":"MB",
             "CUSTOMERID":"32",
-            "INVOICEDATE":"2011-12-22T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-12-22T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -2710,7 +2710,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"34",
-            "INVOICEDATE":"2011-12-22T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-12-22T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -2721,7 +2721,7 @@
             "BILLINGPOSTALCODE":"10789",
             "BILLINGSTATE":null,
             "CUSTOMERID":"36",
-            "INVOICEDATE":"2011-12-23T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-12-23T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -2732,7 +2732,7 @@
             "BILLINGPOSTALCODE":"75002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"40",
-            "INVOICEDATE":"2011-12-24T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-12-24T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -2743,7 +2743,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":"Dublin",
             "CUSTOMERID":"46",
-            "INVOICEDATE":"2011-12-27T00:00:00.000-08:00",
+            "INVOICEDATE":"2011-12-27T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -2754,7 +2754,7 @@
             "BILLINGPOSTALCODE":"2010",
             "BILLINGSTATE":"NSW",
             "CUSTOMERID":"55",
-            "INVOICEDATE":"2012-01-01T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-01-01T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -2765,7 +2765,7 @@
             "BILLINGPOSTALCODE":"01007-010",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"10",
-            "INVOICEDATE":"2012-01-09T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-01-09T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -2776,7 +2776,7 @@
             "BILLINGPOSTALCODE":"01310-200",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"11",
-            "INVOICEDATE":"2012-01-22T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-01-22T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -2787,7 +2787,7 @@
             "BILLINGPOSTALCODE":"71020-677",
             "BILLINGSTATE":"DF",
             "CUSTOMERID":"13",
-            "INVOICEDATE":"2012-01-22T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-01-22T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -2798,7 +2798,7 @@
             "BILLINGPOSTALCODE":"V6C 1G8",
             "BILLINGSTATE":"BC",
             "CUSTOMERID":"15",
-            "INVOICEDATE":"2012-01-23T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-01-23T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -2809,7 +2809,7 @@
             "BILLINGPOSTALCODE":"95014",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"19",
-            "INVOICEDATE":"2012-01-24T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-01-24T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -2820,7 +2820,7 @@
             "BILLINGPOSTALCODE":"53703",
             "BILLINGSTATE":"WI",
             "CUSTOMERID":"25",
-            "INVOICEDATE":"2012-01-27T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-01-27T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -2831,7 +2831,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"34",
-            "INVOICEDATE":"2012-02-01T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-02-01T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -2842,7 +2842,7 @@
             "BILLINGPOSTALCODE":"1016",
             "BILLINGSTATE":"VV",
             "CUSTOMERID":"48",
-            "INVOICEDATE":"2012-02-09T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-02-09T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -2853,7 +2853,7 @@
             "BILLINGPOSTALCODE":"00-358",
             "BILLINGSTATE":null,
             "CUSTOMERID":"49",
-            "INVOICEDATE":"2012-02-22T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-02-22T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -2864,7 +2864,7 @@
             "BILLINGPOSTALCODE":"11230",
             "BILLINGSTATE":null,
             "CUSTOMERID":"51",
-            "INVOICEDATE":"2012-02-22T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-02-22T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -2875,7 +2875,7 @@
             "BILLINGPOSTALCODE":"SW1V 3EN",
             "BILLINGSTATE":null,
             "CUSTOMERID":"53",
-            "INVOICEDATE":"2012-02-23T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-02-23T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -2886,7 +2886,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"57",
-            "INVOICEDATE":"2012-02-24T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-02-24T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -2897,7 +2897,7 @@
             "BILLINGPOSTALCODE":"0171",
             "BILLINGSTATE":null,
             "CUSTOMERID":"4",
-            "INVOICEDATE":"2012-02-27T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-02-27T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -2908,7 +2908,7 @@
             "BILLINGPOSTALCODE":"71020-677",
             "BILLINGSTATE":"DF",
             "CUSTOMERID":"13",
-            "INVOICEDATE":"2012-03-03T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-03-03T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -2919,7 +2919,7 @@
             "BILLINGPOSTALCODE":"85719",
             "BILLINGSTATE":"AZ",
             "CUSTOMERID":"27",
-            "INVOICEDATE":"2012-03-11T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-03-11T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -2930,7 +2930,7 @@
             "BILLINGPOSTALCODE":"84102",
             "BILLINGSTATE":"UT",
             "CUSTOMERID":"28",
-            "INVOICEDATE":"2012-03-24T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-03-24T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2941,7 +2941,7 @@
             "BILLINGPOSTALCODE":"K2P 1L7",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"30",
-            "INVOICEDATE":"2012-03-24T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-03-24T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -2952,7 +2952,7 @@
             "BILLINGPOSTALCODE":"R3L 2B9",
             "BILLINGSTATE":"MB",
             "CUSTOMERID":"32",
-            "INVOICEDATE":"2012-03-25T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-03-25T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -2963,7 +2963,7 @@
             "BILLINGPOSTALCODE":"10789",
             "BILLINGSTATE":null,
             "CUSTOMERID":"36",
-            "INVOICEDATE":"2012-03-26T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-03-26T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -2974,7 +2974,7 @@
             "BILLINGPOSTALCODE":"33000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"42",
-            "INVOICEDATE":"2012-03-29T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-03-29T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -2985,7 +2985,7 @@
             "BILLINGPOSTALCODE":"11230",
             "BILLINGSTATE":null,
             "CUSTOMERID":"51",
-            "INVOICEDATE":"2012-04-03T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-04-03T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -2996,7 +2996,7 @@
             "BILLINGPOSTALCODE":"14300",
             "BILLINGSTATE":null,
             "CUSTOMERID":"6",
-            "INVOICEDATE":"2012-04-11T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-04-11T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -3007,7 +3007,7 @@
             "BILLINGPOSTALCODE":"1010",
             "BILLINGSTATE":null,
             "CUSTOMERID":"7",
-            "INVOICEDATE":"2012-04-24T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-04-24T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3018,7 +3018,7 @@
             "BILLINGPOSTALCODE":"1720",
             "BILLINGSTATE":null,
             "CUSTOMERID":"9",
-            "INVOICEDATE":"2012-04-24T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-04-24T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3029,7 +3029,7 @@
             "BILLINGPOSTALCODE":"01310-200",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"11",
-            "INVOICEDATE":"2012-04-25T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-04-25T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -3040,7 +3040,7 @@
             "BILLINGPOSTALCODE":"V6C 1G8",
             "BILLINGSTATE":"BC",
             "CUSTOMERID":"15",
-            "INVOICEDATE":"2012-04-26T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-04-26T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -3051,7 +3051,7 @@
             "BILLINGPOSTALCODE":"89503",
             "BILLINGSTATE":"NV",
             "CUSTOMERID":"21",
-            "INVOICEDATE":"2012-04-29T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-04-29T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -3062,7 +3062,7 @@
             "BILLINGPOSTALCODE":"K2P 1L7",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"30",
-            "INVOICEDATE":"2012-05-04T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-05-04T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -3073,7 +3073,7 @@
             "BILLINGPOSTALCODE":"00530",
             "BILLINGSTATE":null,
             "CUSTOMERID":"44",
-            "INVOICEDATE":"2012-05-12T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-05-12T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -3084,7 +3084,7 @@
             "BILLINGPOSTALCODE":"H-1073",
             "BILLINGSTATE":null,
             "CUSTOMERID":"45",
-            "INVOICEDATE":"2012-05-25T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-05-25T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3095,7 +3095,7 @@
             "BILLINGPOSTALCODE":"00192",
             "BILLINGSTATE":"RM",
             "CUSTOMERID":"47",
-            "INVOICEDATE":"2012-05-25T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-05-25T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3106,7 +3106,7 @@
             "BILLINGPOSTALCODE":"00-358",
             "BILLINGSTATE":null,
             "CUSTOMERID":"49",
-            "INVOICEDATE":"2012-05-26T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-05-26T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -3117,7 +3117,7 @@
             "BILLINGPOSTALCODE":"SW1V 3EN",
             "BILLINGSTATE":null,
             "CUSTOMERID":"53",
-            "INVOICEDATE":"2012-05-27T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-05-27T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -3128,7 +3128,7 @@
             "BILLINGPOSTALCODE":"560001",
             "BILLINGSTATE":null,
             "CUSTOMERID":"59",
-            "INVOICEDATE":"2012-05-30T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-05-30T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -3139,7 +3139,7 @@
             "BILLINGPOSTALCODE":"1720",
             "BILLINGSTATE":null,
             "CUSTOMERID":"9",
-            "INVOICEDATE":"2012-06-04T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-06-04T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -3150,7 +3150,7 @@
             "BILLINGPOSTALCODE":"2113",
             "BILLINGSTATE":"MA",
             "CUSTOMERID":"23",
-            "INVOICEDATE":"2012-06-12T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-06-12T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -3161,7 +3161,7 @@
             "BILLINGPOSTALCODE":"60611",
             "BILLINGSTATE":"IL",
             "CUSTOMERID":"24",
-            "INVOICEDATE":"2012-06-25T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-06-25T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3172,7 +3172,7 @@
             "BILLINGPOSTALCODE":"76110",
             "BILLINGSTATE":"TX",
             "CUSTOMERID":"26",
-            "INVOICEDATE":"2012-06-25T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-06-25T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3183,7 +3183,7 @@
             "BILLINGPOSTALCODE":"84102",
             "BILLINGSTATE":"UT",
             "CUSTOMERID":"28",
-            "INVOICEDATE":"2012-06-26T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-06-26T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -3194,7 +3194,7 @@
             "BILLINGPOSTALCODE":"R3L 2B9",
             "BILLINGSTATE":"MB",
             "CUSTOMERID":"32",
-            "INVOICEDATE":"2012-06-27T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-06-27T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -3205,7 +3205,7 @@
             "BILLINGPOSTALCODE":"10779",
             "BILLINGSTATE":null,
             "CUSTOMERID":"38",
-            "INVOICEDATE":"2012-06-30T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-06-30T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -3216,7 +3216,7 @@
             "BILLINGPOSTALCODE":"00192",
             "BILLINGSTATE":"RM",
             "CUSTOMERID":"47",
-            "INVOICEDATE":"2012-07-05T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-07-05T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -3227,7 +3227,7 @@
             "BILLINGPOSTALCODE":"70174",
             "BILLINGSTATE":null,
             "CUSTOMERID":"2",
-            "INVOICEDATE":"2012-07-13T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-07-13T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -3238,7 +3238,7 @@
             "BILLINGPOSTALCODE":"H2G 1A7",
             "BILLINGSTATE":"QC",
             "CUSTOMERID":"3",
-            "INVOICEDATE":"2012-07-26T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-07-26T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3249,7 +3249,7 @@
             "BILLINGPOSTALCODE":"14700",
             "BILLINGSTATE":null,
             "CUSTOMERID":"5",
-            "INVOICEDATE":"2012-07-26T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-07-26T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3260,7 +3260,7 @@
             "BILLINGPOSTALCODE":"1010",
             "BILLINGSTATE":null,
             "CUSTOMERID":"7",
-            "INVOICEDATE":"2012-07-27T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-07-27T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -3271,7 +3271,7 @@
             "BILLINGPOSTALCODE":"01310-200",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"11",
-            "INVOICEDATE":"2012-07-28T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-07-28T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -3282,7 +3282,7 @@
             "BILLINGPOSTALCODE":"98052-8300",
             "BILLINGSTATE":"WA",
             "CUSTOMERID":"17",
-            "INVOICEDATE":"2012-07-31T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-07-31T00:00:00.000-04:00",
             "TOTAL":"10.91"
         },
         {
@@ -3293,7 +3293,7 @@
             "BILLINGPOSTALCODE":"76110",
             "BILLINGSTATE":"TX",
             "CUSTOMERID":"26",
-            "INVOICEDATE":"2012-08-05T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-08-05T00:00:00.000-04:00",
             "TOTAL":"23.86"
         },
         {
@@ -3304,7 +3304,7 @@
             "BILLINGPOSTALCODE":"75002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"40",
-            "INVOICEDATE":"2012-08-13T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-08-13T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -3315,7 +3315,7 @@
             "BILLINGPOSTALCODE":"69002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"41",
-            "INVOICEDATE":"2012-08-26T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-08-26T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3326,7 +3326,7 @@
             "BILLINGPOSTALCODE":"21000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"43",
-            "INVOICEDATE":"2012-08-26T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-08-26T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3337,7 +3337,7 @@
             "BILLINGPOSTALCODE":"H-1073",
             "BILLINGSTATE":null,
             "CUSTOMERID":"45",
-            "INVOICEDATE":"2012-08-27T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-08-27T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -3348,7 +3348,7 @@
             "BILLINGPOSTALCODE":"00-358",
             "BILLINGSTATE":null,
             "CUSTOMERID":"49",
-            "INVOICEDATE":"2012-08-28T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-08-28T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -3359,7 +3359,7 @@
             "BILLINGPOSTALCODE":"2010",
             "BILLINGSTATE":"NSW",
             "CUSTOMERID":"55",
-            "INVOICEDATE":"2012-08-31T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-08-31T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -3370,7 +3370,7 @@
             "BILLINGPOSTALCODE":"14700",
             "BILLINGSTATE":null,
             "CUSTOMERID":"5",
-            "INVOICEDATE":"2012-09-05T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-09-05T00:00:00.000-04:00",
             "TOTAL":"16.86"
         },
         {
@@ -3381,7 +3381,7 @@
             "BILLINGPOSTALCODE":"95014",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"19",
-            "INVOICEDATE":"2012-09-13T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-09-13T00:00:00.000-04:00",
             "TOTAL":"1.99"
         },
         {
@@ -3392,7 +3392,7 @@
             "BILLINGPOSTALCODE":"94040-111",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"20",
-            "INVOICEDATE":"2012-09-26T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-09-26T00:00:00.000-04:00",
             "TOTAL":"3.98"
         },
         {
@@ -3403,7 +3403,7 @@
             "BILLINGPOSTALCODE":"32801",
             "BILLINGSTATE":"FL",
             "CUSTOMERID":"22",
-            "INVOICEDATE":"2012-09-26T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-09-26T00:00:00.000-04:00",
             "TOTAL":"3.98"
         },
         {
@@ -3414,7 +3414,7 @@
             "BILLINGPOSTALCODE":"60611",
             "BILLINGSTATE":"IL",
             "CUSTOMERID":"24",
-            "INVOICEDATE":"2012-09-27T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-09-27T00:00:00.000-04:00",
             "TOTAL":"7.96"
         },
         {
@@ -3425,7 +3425,7 @@
             "BILLINGPOSTALCODE":"84102",
             "BILLINGSTATE":"UT",
             "CUSTOMERID":"28",
-            "INVOICEDATE":"2012-09-28T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-09-28T00:00:00.000-04:00",
             "TOTAL":"11.94"
         },
         {
@@ -3436,7 +3436,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"34",
-            "INVOICEDATE":"2012-10-01T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-10-01T00:00:00.000-04:00",
             "TOTAL":"10.91"
         },
         {
@@ -3447,7 +3447,7 @@
             "BILLINGPOSTALCODE":"21000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"43",
-            "INVOICEDATE":"2012-10-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-10-06T00:00:00.000-04:00",
             "TOTAL":"16.86"
         },
         {
@@ -3458,7 +3458,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"57",
-            "INVOICEDATE":"2012-10-14T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-10-14T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -3469,7 +3469,7 @@
             "BILLINGPOSTALCODE":"110017",
             "BILLINGSTATE":null,
             "CUSTOMERID":"58",
-            "INVOICEDATE":"2012-10-27T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-10-27T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3480,7 +3480,7 @@
             "BILLINGPOSTALCODE":"12227-000",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"1",
-            "INVOICEDATE":"2012-10-27T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-10-27T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3491,7 +3491,7 @@
             "BILLINGPOSTALCODE":"H2G 1A7",
             "BILLINGSTATE":"QC",
             "CUSTOMERID":"3",
-            "INVOICEDATE":"2012-10-28T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-10-28T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -3502,7 +3502,7 @@
             "BILLINGPOSTALCODE":"1010",
             "BILLINGSTATE":null,
             "CUSTOMERID":"7",
-            "INVOICEDATE":"2012-10-29T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-10-29T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -3513,7 +3513,7 @@
             "BILLINGPOSTALCODE":"71020-677",
             "BILLINGSTATE":"DF",
             "CUSTOMERID":"13",
-            "INVOICEDATE":"2012-11-01T00:00:00.000-07:00",
+            "INVOICEDATE":"2012-11-01T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -3524,7 +3524,7 @@
             "BILLINGPOSTALCODE":"32801",
             "BILLINGSTATE":"FL",
             "CUSTOMERID":"22",
-            "INVOICEDATE":"2012-11-06T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-11-06T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -3535,7 +3535,7 @@
             "BILLINGPOSTALCODE":"10789",
             "BILLINGSTATE":null,
             "CUSTOMERID":"36",
-            "INVOICEDATE":"2012-11-14T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-11-14T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -3546,7 +3546,7 @@
             "BILLINGPOSTALCODE":"60316",
             "BILLINGSTATE":null,
             "CUSTOMERID":"37",
-            "INVOICEDATE":"2012-11-27T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-11-27T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -3557,7 +3557,7 @@
             "BILLINGPOSTALCODE":"75009",
             "BILLINGSTATE":null,
             "CUSTOMERID":"39",
-            "INVOICEDATE":"2012-11-27T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-11-27T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -3568,7 +3568,7 @@
             "BILLINGPOSTALCODE":"69002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"41",
-            "INVOICEDATE":"2012-11-28T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-11-28T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -3579,7 +3579,7 @@
             "BILLINGPOSTALCODE":"H-1073",
             "BILLINGSTATE":null,
             "CUSTOMERID":"45",
-            "INVOICEDATE":"2012-11-29T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-11-29T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -3590,7 +3590,7 @@
             "BILLINGPOSTALCODE":"11230",
             "BILLINGSTATE":null,
             "CUSTOMERID":"51",
-            "INVOICEDATE":"2012-12-02T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-12-02T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -3601,7 +3601,7 @@
             "BILLINGPOSTALCODE":"12227-000",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"1",
-            "INVOICEDATE":"2012-12-07T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-12-07T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -3612,7 +3612,7 @@
             "BILLINGPOSTALCODE":"V6C 1G8",
             "BILLINGSTATE":"BC",
             "CUSTOMERID":"15",
-            "INVOICEDATE":"2012-12-15T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-12-15T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -3623,7 +3623,7 @@
             "BILLINGPOSTALCODE":"94043-1351",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"16",
-            "INVOICEDATE":"2012-12-28T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-12-28T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -3634,7 +3634,7 @@
             "BILLINGPOSTALCODE":"10012-2612",
             "BILLINGSTATE":"NY",
             "CUSTOMERID":"18",
-            "INVOICEDATE":"2012-12-28T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-12-28T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -3645,7 +3645,7 @@
             "BILLINGPOSTALCODE":"94040-111",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"20",
-            "INVOICEDATE":"2012-12-29T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-12-29T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -3656,7 +3656,7 @@
             "BILLINGPOSTALCODE":"60611",
             "BILLINGSTATE":"IL",
             "CUSTOMERID":"24",
-            "INVOICEDATE":"2012-12-30T00:00:00.000-08:00",
+            "INVOICEDATE":"2012-12-30T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -3667,7 +3667,7 @@
             "BILLINGPOSTALCODE":"K2P 1L7",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"30",
-            "INVOICEDATE":"2013-01-02T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-01-02T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -3678,7 +3678,7 @@
             "BILLINGPOSTALCODE":"75009",
             "BILLINGSTATE":null,
             "CUSTOMERID":"39",
-            "INVOICEDATE":"2013-01-07T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-01-07T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -3689,7 +3689,7 @@
             "BILLINGPOSTALCODE":"SW1V 3EN",
             "BILLINGSTATE":null,
             "CUSTOMERID":"53",
-            "INVOICEDATE":"2013-01-15T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-01-15T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -3700,7 +3700,7 @@
             "BILLINGPOSTALCODE":"EH4 1HH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"54",
-            "INVOICEDATE":"2013-01-28T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-01-28T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -3711,7 +3711,7 @@
             "BILLINGPOSTALCODE":"1106",
             "BILLINGSTATE":null,
             "CUSTOMERID":"56",
-            "INVOICEDATE":"2013-01-28T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-01-28T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -3722,7 +3722,7 @@
             "BILLINGPOSTALCODE":"110017",
             "BILLINGSTATE":null,
             "CUSTOMERID":"58",
-            "INVOICEDATE":"2013-01-29T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-01-29T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -3733,7 +3733,7 @@
             "BILLINGPOSTALCODE":"H2G 1A7",
             "BILLINGSTATE":"QC",
             "CUSTOMERID":"3",
-            "INVOICEDATE":"2013-01-30T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-01-30T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -3744,7 +3744,7 @@
             "BILLINGPOSTALCODE":"1720",
             "BILLINGSTATE":null,
             "CUSTOMERID":"9",
-            "INVOICEDATE":"2013-02-02T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-02-02T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -3755,7 +3755,7 @@
             "BILLINGPOSTALCODE":"10012-2612",
             "BILLINGSTATE":"NY",
             "CUSTOMERID":"18",
-            "INVOICEDATE":"2013-02-07T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-02-07T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -3766,7 +3766,7 @@
             "BILLINGPOSTALCODE":"R3L 2B9",
             "BILLINGSTATE":"MB",
             "CUSTOMERID":"32",
-            "INVOICEDATE":"2013-02-15T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-02-15T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -3777,7 +3777,7 @@
             "BILLINGPOSTALCODE":"X1A 1N6",
             "BILLINGSTATE":"NT",
             "CUSTOMERID":"33",
-            "INVOICEDATE":"2013-02-28T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-02-28T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -3788,7 +3788,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"35",
-            "INVOICEDATE":"2013-02-28T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-02-28T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -3799,7 +3799,7 @@
             "BILLINGPOSTALCODE":"60316",
             "BILLINGSTATE":null,
             "CUSTOMERID":"37",
-            "INVOICEDATE":"2013-03-01T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-03-01T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -3810,7 +3810,7 @@
             "BILLINGPOSTALCODE":"69002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"41",
-            "INVOICEDATE":"2013-03-02T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-03-02T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -3821,7 +3821,7 @@
             "BILLINGPOSTALCODE":"00192",
             "BILLINGSTATE":"RM",
             "CUSTOMERID":"47",
-            "INVOICEDATE":"2013-03-05T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-03-05T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -3832,7 +3832,7 @@
             "BILLINGPOSTALCODE":"1106",
             "BILLINGSTATE":null,
             "CUSTOMERID":"56",
-            "INVOICEDATE":"2013-03-10T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-03-10T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -3843,7 +3843,7 @@
             "BILLINGPOSTALCODE":"01310-200",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"11",
-            "INVOICEDATE":"2013-03-18T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-03-18T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -3854,7 +3854,7 @@
             "BILLINGPOSTALCODE":"20040-020",
             "BILLINGSTATE":"RJ",
             "CUSTOMERID":"12",
-            "INVOICEDATE":"2013-03-31T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-03-31T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3865,7 +3865,7 @@
             "BILLINGPOSTALCODE":"T6G 2C7",
             "BILLINGSTATE":"AB",
             "CUSTOMERID":"14",
-            "INVOICEDATE":"2013-03-31T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-03-31T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3876,7 +3876,7 @@
             "BILLINGPOSTALCODE":"94043-1351",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"16",
-            "INVOICEDATE":"2013-04-01T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-04-01T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -3887,7 +3887,7 @@
             "BILLINGPOSTALCODE":"94040-111",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"20",
-            "INVOICEDATE":"2013-04-02T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-04-02T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -3898,7 +3898,7 @@
             "BILLINGPOSTALCODE":"76110",
             "BILLINGSTATE":"TX",
             "CUSTOMERID":"26",
-            "INVOICEDATE":"2013-04-05T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-04-05T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -3909,7 +3909,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"35",
-            "INVOICEDATE":"2013-04-10T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-04-10T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -3920,7 +3920,7 @@
             "BILLINGPOSTALCODE":"00-358",
             "BILLINGSTATE":null,
             "CUSTOMERID":"49",
-            "INVOICEDATE":"2013-04-18T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-04-18T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -3931,7 +3931,7 @@
             "BILLINGPOSTALCODE":"28015",
             "BILLINGSTATE":null,
             "CUSTOMERID":"50",
-            "INVOICEDATE":"2013-05-01T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-05-01T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3942,7 +3942,7 @@
             "BILLINGPOSTALCODE":"N1 5LH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"52",
-            "INVOICEDATE":"2013-05-01T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-05-01T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -3953,7 +3953,7 @@
             "BILLINGPOSTALCODE":"EH4 1HH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"54",
-            "INVOICEDATE":"2013-05-02T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-05-02T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -3964,7 +3964,7 @@
             "BILLINGPOSTALCODE":"110017",
             "BILLINGSTATE":null,
             "CUSTOMERID":"58",
-            "INVOICEDATE":"2013-05-03T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-05-03T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -3975,7 +3975,7 @@
             "BILLINGPOSTALCODE":"14700",
             "BILLINGSTATE":null,
             "CUSTOMERID":"5",
-            "INVOICEDATE":"2013-05-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-05-06T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -3986,7 +3986,7 @@
             "BILLINGPOSTALCODE":"T6G 2C7",
             "BILLINGSTATE":"AB",
             "CUSTOMERID":"14",
-            "INVOICEDATE":"2013-05-11T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-05-11T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -3997,7 +3997,7 @@
             "BILLINGPOSTALCODE":"84102",
             "BILLINGSTATE":"UT",
             "CUSTOMERID":"28",
-            "INVOICEDATE":"2013-05-19T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-05-19T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -4008,7 +4008,7 @@
             "BILLINGPOSTALCODE":"M6J 1V1",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"29",
-            "INVOICEDATE":"2013-06-01T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-06-01T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -4019,7 +4019,7 @@
             "BILLINGPOSTALCODE":"B3S 1C5",
             "BILLINGSTATE":"NS",
             "CUSTOMERID":"31",
-            "INVOICEDATE":"2013-06-01T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-06-01T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -4030,7 +4030,7 @@
             "BILLINGPOSTALCODE":"X1A 1N6",
             "BILLINGSTATE":"NT",
             "CUSTOMERID":"33",
-            "INVOICEDATE":"2013-06-02T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-06-02T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -4041,7 +4041,7 @@
             "BILLINGPOSTALCODE":"60316",
             "BILLINGSTATE":null,
             "CUSTOMERID":"37",
-            "INVOICEDATE":"2013-06-03T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-06-03T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -4052,7 +4052,7 @@
             "BILLINGPOSTALCODE":"21000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"43",
-            "INVOICEDATE":"2013-06-06T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-06-06T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -4063,7 +4063,7 @@
             "BILLINGPOSTALCODE":"N1 5LH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"52",
-            "INVOICEDATE":"2013-06-11T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-06-11T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -4074,7 +4074,7 @@
             "BILLINGPOSTALCODE":"1010",
             "BILLINGSTATE":null,
             "CUSTOMERID":"7",
-            "INVOICEDATE":"2013-06-19T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-06-19T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -4085,7 +4085,7 @@
             "BILLINGPOSTALCODE":"1000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"8",
-            "INVOICEDATE":"2013-07-02T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-07-02T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -4096,7 +4096,7 @@
             "BILLINGPOSTALCODE":"01007-010",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"10",
-            "INVOICEDATE":"2013-07-02T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-07-02T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -4107,7 +4107,7 @@
             "BILLINGPOSTALCODE":"20040-020",
             "BILLINGSTATE":"RJ",
             "CUSTOMERID":"12",
-            "INVOICEDATE":"2013-07-03T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-07-03T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -4118,7 +4118,7 @@
             "BILLINGPOSTALCODE":"94043-1351",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"16",
-            "INVOICEDATE":"2013-07-04T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-07-04T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -4129,7 +4129,7 @@
             "BILLINGPOSTALCODE":"32801",
             "BILLINGSTATE":"FL",
             "CUSTOMERID":"22",
-            "INVOICEDATE":"2013-07-07T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-07-07T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -4140,7 +4140,7 @@
             "BILLINGPOSTALCODE":"B3S 1C5",
             "BILLINGSTATE":"NS",
             "CUSTOMERID":"31",
-            "INVOICEDATE":"2013-07-12T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-07-12T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -4151,7 +4151,7 @@
             "BILLINGPOSTALCODE":"H-1073",
             "BILLINGSTATE":null,
             "CUSTOMERID":"45",
-            "INVOICEDATE":"2013-07-20T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-07-20T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -4162,7 +4162,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":"Dublin",
             "CUSTOMERID":"46",
-            "INVOICEDATE":"2013-08-02T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-08-02T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -4173,7 +4173,7 @@
             "BILLINGPOSTALCODE":"1016",
             "BILLINGSTATE":"VV",
             "CUSTOMERID":"48",
-            "INVOICEDATE":"2013-08-02T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-08-02T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -4184,7 +4184,7 @@
             "BILLINGPOSTALCODE":"28015",
             "BILLINGSTATE":null,
             "CUSTOMERID":"50",
-            "INVOICEDATE":"2013-08-03T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-08-03T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -4195,7 +4195,7 @@
             "BILLINGPOSTALCODE":"EH4 1HH",
             "BILLINGSTATE":null,
             "CUSTOMERID":"54",
-            "INVOICEDATE":"2013-08-04T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-08-04T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -4206,7 +4206,7 @@
             "BILLINGPOSTALCODE":"12227-000",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"1",
-            "INVOICEDATE":"2013-08-07T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-08-07T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -4217,7 +4217,7 @@
             "BILLINGPOSTALCODE":"01007-010",
             "BILLINGSTATE":"SP",
             "CUSTOMERID":"10",
-            "INVOICEDATE":"2013-08-12T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-08-12T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -4228,7 +4228,7 @@
             "BILLINGPOSTALCODE":"60611",
             "BILLINGSTATE":"IL",
             "CUSTOMERID":"24",
-            "INVOICEDATE":"2013-08-20T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-08-20T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -4239,7 +4239,7 @@
             "BILLINGPOSTALCODE":"53703",
             "BILLINGSTATE":"WI",
             "CUSTOMERID":"25",
-            "INVOICEDATE":"2013-09-02T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-09-02T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -4250,7 +4250,7 @@
             "BILLINGPOSTALCODE":"85719",
             "BILLINGSTATE":"AZ",
             "CUSTOMERID":"27",
-            "INVOICEDATE":"2013-09-02T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-09-02T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -4261,7 +4261,7 @@
             "BILLINGPOSTALCODE":"M6J 1V1",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"29",
-            "INVOICEDATE":"2013-09-03T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-09-03T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -4272,7 +4272,7 @@
             "BILLINGPOSTALCODE":"X1A 1N6",
             "BILLINGSTATE":"NT",
             "CUSTOMERID":"33",
-            "INVOICEDATE":"2013-09-04T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-09-04T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -4283,7 +4283,7 @@
             "BILLINGPOSTALCODE":"75009",
             "BILLINGSTATE":null,
             "CUSTOMERID":"39",
-            "INVOICEDATE":"2013-09-07T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-09-07T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -4294,7 +4294,7 @@
             "BILLINGPOSTALCODE":"1016",
             "BILLINGSTATE":"VV",
             "CUSTOMERID":"48",
-            "INVOICEDATE":"2013-09-12T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-09-12T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -4305,7 +4305,7 @@
             "BILLINGPOSTALCODE":"H2G 1A7",
             "BILLINGSTATE":"QC",
             "CUSTOMERID":"3",
-            "INVOICEDATE":"2013-09-20T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-09-20T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -4316,7 +4316,7 @@
             "BILLINGPOSTALCODE":"0171",
             "BILLINGSTATE":null,
             "CUSTOMERID":"4",
-            "INVOICEDATE":"2013-10-03T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-10-03T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -4327,7 +4327,7 @@
             "BILLINGPOSTALCODE":"14300",
             "BILLINGSTATE":null,
             "CUSTOMERID":"6",
-            "INVOICEDATE":"2013-10-03T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-10-03T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -4338,7 +4338,7 @@
             "BILLINGPOSTALCODE":"1000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"8",
-            "INVOICEDATE":"2013-10-04T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-10-04T00:00:00.000-04:00",
             "TOTAL":"3.96"
         },
         {
@@ -4349,7 +4349,7 @@
             "BILLINGPOSTALCODE":"20040-020",
             "BILLINGSTATE":"RJ",
             "CUSTOMERID":"12",
-            "INVOICEDATE":"2013-10-05T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-10-05T00:00:00.000-04:00",
             "TOTAL":"5.94"
         },
         {
@@ -4360,7 +4360,7 @@
             "BILLINGPOSTALCODE":"10012-2612",
             "BILLINGSTATE":"NY",
             "CUSTOMERID":"18",
-            "INVOICEDATE":"2013-10-08T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-10-08T00:00:00.000-04:00",
             "TOTAL":"8.91"
         },
         {
@@ -4371,7 +4371,7 @@
             "BILLINGPOSTALCODE":"85719",
             "BILLINGSTATE":"AZ",
             "CUSTOMERID":"27",
-            "INVOICEDATE":"2013-10-13T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-10-13T00:00:00.000-04:00",
             "TOTAL":"13.86"
         },
         {
@@ -4382,7 +4382,7 @@
             "BILLINGPOSTALCODE":"69002",
             "BILLINGSTATE":null,
             "CUSTOMERID":"41",
-            "INVOICEDATE":"2013-10-21T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-10-21T00:00:00.000-04:00",
             "TOTAL":"0.99"
         },
         {
@@ -4393,7 +4393,7 @@
             "BILLINGPOSTALCODE":"33000",
             "BILLINGSTATE":null,
             "CUSTOMERID":"42",
-            "INVOICEDATE":"2013-11-03T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-11-03T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -4404,7 +4404,7 @@
             "BILLINGPOSTALCODE":"00530",
             "BILLINGSTATE":null,
             "CUSTOMERID":"44",
-            "INVOICEDATE":"2013-11-03T00:00:00.000-07:00",
+            "INVOICEDATE":"2013-11-03T00:00:00.000-04:00",
             "TOTAL":"1.98"
         },
         {
@@ -4415,7 +4415,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":"Dublin",
             "CUSTOMERID":"46",
-            "INVOICEDATE":"2013-11-04T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-11-04T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -4426,7 +4426,7 @@
             "BILLINGPOSTALCODE":"28015",
             "BILLINGSTATE":null,
             "CUSTOMERID":"50",
-            "INVOICEDATE":"2013-11-05T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-11-05T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -4437,7 +4437,7 @@
             "BILLINGPOSTALCODE":"1106",
             "BILLINGSTATE":null,
             "CUSTOMERID":"56",
-            "INVOICEDATE":"2013-11-08T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-11-08T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -4448,7 +4448,7 @@
             "BILLINGPOSTALCODE":"14300",
             "BILLINGSTATE":null,
             "CUSTOMERID":"6",
-            "INVOICEDATE":"2013-11-13T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-11-13T00:00:00.000-05:00",
             "TOTAL":"25.86"
         },
         {
@@ -4459,7 +4459,7 @@
             "BILLINGPOSTALCODE":"94040-111",
             "BILLINGSTATE":"CA",
             "CUSTOMERID":"20",
-            "INVOICEDATE":"2013-11-21T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-11-21T00:00:00.000-05:00",
             "TOTAL":"0.99"
         },
         {
@@ -4470,7 +4470,7 @@
             "BILLINGPOSTALCODE":"89503",
             "BILLINGSTATE":"NV",
             "CUSTOMERID":"21",
-            "INVOICEDATE":"2013-12-04T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-12-04T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -4481,7 +4481,7 @@
             "BILLINGPOSTALCODE":"2113",
             "BILLINGSTATE":"MA",
             "CUSTOMERID":"23",
-            "INVOICEDATE":"2013-12-04T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-12-04T00:00:00.000-05:00",
             "TOTAL":"1.98"
         },
         {
@@ -4492,7 +4492,7 @@
             "BILLINGPOSTALCODE":"53703",
             "BILLINGSTATE":"WI",
             "CUSTOMERID":"25",
-            "INVOICEDATE":"2013-12-05T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-12-05T00:00:00.000-05:00",
             "TOTAL":"3.96"
         },
         {
@@ -4503,7 +4503,7 @@
             "BILLINGPOSTALCODE":"M6J 1V1",
             "BILLINGSTATE":"ON",
             "CUSTOMERID":"29",
-            "INVOICEDATE":"2013-12-06T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-12-06T00:00:00.000-05:00",
             "TOTAL":"5.94"
         },
         {
@@ -4514,7 +4514,7 @@
             "BILLINGPOSTALCODE":null,
             "BILLINGSTATE":null,
             "CUSTOMERID":"35",
-            "INVOICEDATE":"2013-12-09T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-12-09T00:00:00.000-05:00",
             "TOTAL":"8.91"
         },
         {
@@ -4525,7 +4525,7 @@
             "BILLINGPOSTALCODE":"00530",
             "BILLINGSTATE":null,
             "CUSTOMERID":"44",
-            "INVOICEDATE":"2013-12-14T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-12-14T00:00:00.000-05:00",
             "TOTAL":"13.86"
         },
         {
@@ -4536,7 +4536,7 @@
             "BILLINGPOSTALCODE":"110017",
             "BILLINGSTATE":null,
             "CUSTOMERID":"58",
-            "INVOICEDATE":"2013-12-22T00:00:00.000-08:00",
+            "INVOICEDATE":"2013-12-22T00:00:00.000-05:00",
             "TOTAL":"1.99"
         }
     ]
