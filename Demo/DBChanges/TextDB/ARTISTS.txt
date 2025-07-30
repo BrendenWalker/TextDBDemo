@@ -581,7 +581,7 @@
         },
         {
             "ARTISTID":"144",
-            "NAME":"The Who"
+            "NAME":"The What"
         },
         {
             "ARTISTID":"145",

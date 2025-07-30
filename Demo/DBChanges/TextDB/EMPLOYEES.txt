@@ -22,6 +22,7 @@
             "POSTALCODE":"T5K 2N1",
             "REPORTSTO":null,
             "STATE":"AB",
+            "TERMDATE":null,
             "TITLE":"General Manager"
         },
         {
@@ -39,6 +40,7 @@
             "POSTALCODE":"T2P 2T3",
             "REPORTSTO":"1",
             "STATE":"AB",
+            "TERMDATE":null,
             "TITLE":"Sales Manager"
         },
         {
@@ -56,6 +58,7 @@
             "POSTALCODE":"T2P 5M5",
             "REPORTSTO":"2",
             "STATE":"AB",
+            "TERMDATE":null,
             "TITLE":"Sales Support Agent"
         },
         {
@@ -73,6 +76,7 @@
             "POSTALCODE":"T2P 5G3",
             "REPORTSTO":"2",
             "STATE":"AB",
+            "TERMDATE":null,
             "TITLE":"Sales Support Agent"
         },
         {
@@ -90,6 +94,7 @@
             "POSTALCODE":"T3B 1Y7",
             "REPORTSTO":"2",
             "STATE":"AB",
+            "TERMDATE":null,
             "TITLE":"Sales Support Agent"
         },
         {
@@ -107,6 +112,7 @@
             "POSTALCODE":"T3B 0C5",
             "REPORTSTO":"1",
             "STATE":"AB",
+            "TERMDATE":null,
             "TITLE":"IT Manager"
         },
         {
@@ -124,6 +130,7 @@
             "POSTALCODE":"T1K 5N8",
             "REPORTSTO":"6",
             "STATE":"AB",
+            "TERMDATE":null,
             "TITLE":"IT Staff"
         },
         {
@@ -141,6 +148,7 @@
             "POSTALCODE":"T1H 1Y8",
             "REPORTSTO":"6",
             "STATE":"AB",
+            "TERMDATE":null,
             "TITLE":"IT Staff"
         }
     ]

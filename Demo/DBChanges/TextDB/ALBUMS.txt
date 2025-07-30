@@ -1741,6 +1741,11 @@
             "ALBUMID":"347",
             "ARTISTID":"275",
             "TITLE":"Koyaanisqatsi (Soundtrack from the Motion Picture)"
+        },
+        {
+            "ALBUMID":"348",
+            "ARTISTID":"1",
+            "TITLE":"Test Album"
         }
     ]
 }

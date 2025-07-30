@@ -68,10 +68,6 @@
             "NAME":"Classical 101 - The Basics"
         },
         {
-            "PLAYLISTID":"16",
-            "NAME":"Grunge"
-        },
-        {
             "PLAYLISTID":"17",
             "NAME":"Heavy Metal Classic"
         },
